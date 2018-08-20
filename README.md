@@ -1,9 +1,9 @@
 ## Ankesh Khandelwal
 
-Page to highlight my work.
-You can use the [editor on GitHub](https://github.com/ankesh12/ankesh12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A highly motivated and enthusiastic individual with 5 years of experience in IT. Completed MTech in Software Engineering at National University of Singapore in which took up a blend of technical and business modules to understand development from both perspectives. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently honing my skills in mobility and Cloud technologies. Have done a few projects on Android and also looking forward to working with iOS (Swift).
+Previously worked for Infosys Ltd for a top card provider client. Worked on various technologies including COBOL, JCL, Mainframe, JAVA, C#.
 
 ### Markdown
 
